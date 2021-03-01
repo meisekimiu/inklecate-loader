@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/furkleindustries/inklecate-loader.git"
+    "url": "git+https://github.com/meisekimiu/inklecate-loader.git"
   },
   "keywords": [
     "inklecate",
@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/furkleindustries/inklecate-loader#readme",
   "dependencies": {
-    "inklecate": "^1.7.1"
+    "inklecate": "github:meisekimiu/inklecate-node"
   },
   "devDependencies": {
     "bufferutil": "^4.0.1",
